@@ -1,2 +1,2 @@
-docarray==0.17.1
+docarray==0.17.0
 clip_client==0.7.0
