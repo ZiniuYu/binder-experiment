@@ -1,2 +1,2 @@
-jina==3.10.1
+docarry==0.17.1
 clip_client==0.7.0
